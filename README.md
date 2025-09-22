@@ -12,7 +12,6 @@
 6. [Code Refactoring](#6-code-refactoring)
 7. [Deployment](#7-deployment)
 8. [Usage](#8-usage)
-9. [License](#9-license)
 
 ## 1. Introduction
 
@@ -169,8 +168,3 @@ The TO-DOIT App is deployed and accessible online. You can use the following lin
 7. **Theme Switching:**
    - Use the palette icon in the top-right corner to open the theme switcher.
    - Select a theme from the available options.
-
-
-## 9. License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) and was originally developed by [@antter-ui](https://github.com/antter-ui)
